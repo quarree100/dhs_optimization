@@ -1,2 +1,2 @@
 # dhs_optimization
-Example of an district-heating-system optimization using oemof.solph.
+Example of a district-heating-system optimization using oemof.solph.
